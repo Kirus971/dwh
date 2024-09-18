@@ -2,7 +2,7 @@
 There are my example of ETL on airflow with Postgres and S3.
 
 
-![Alt text](/Users/sharonce/Documents/DWH/dwh/img/Screenshot 2024-09-18 at 9.26.29 PM.png)
+![Alt text](../img/Screenshot 2024-09-18 at 9.26.29 PM.png)
 
 ## google sheet api
 rus - https://habr.com/ru/articles/575160/
